@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gisacap03/static/css/main.111a700f.css",
+    "main.js": "/gisacap03/static/js/main.35a32b7b.js",
+    "static/js/488.b4bea031.chunk.js": "/gisacap03/static/js/488.b4bea031.chunk.js",
+    "static/media/image1.png": "/gisacap03/static/media/image1.450ff4daa2904dd64924.png",
+    "index.html": "/gisacap03/index.html",
+    "main.111a700f.css.map": "/gisacap03/static/css/main.111a700f.css.map",
+    "main.35a32b7b.js.map": "/gisacap03/static/js/main.35a32b7b.js.map",
+    "488.b4bea031.chunk.js.map": "/gisacap03/static/js/488.b4bea031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111a700f.css",
+    "static/js/main.35a32b7b.js"
+  ]
+}
